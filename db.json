@@ -152,33 +152,6 @@
       "rating": 2,
       "comments": "interdum feugiat. Sed nec metus facilisis lorem tristique aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam ligula tortor, dictum eu, placerat eget, venenatis a, magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam laoreet, libero et tristique pellentesque, tellus sem mollis dui, in sodales elit erat vitae",
       "createdAt": 1694802810000
-    },
-    {
-      "id": "C4FDF654-DF50-F2EE-A4CC-59E61AD6BFC5",
-      "firstName": "Melodie",
-      "lastName": "Cook",
-      "email": "nunc.ullamcorper@hotmail.edu",
-      "rating": 2,
-      "comments": "volutpat. Nulla dignissim. Maecenas ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla tincidunt, neque vitae semper egestas, urna justo faucibus lectus, a sollicitudin orci sem eget",
-      "createdAt": 1697917821000
-    },
-    {
-      "id": "6AB4C0EE-BB64-1C03-8D59-A2FA054CDB75",
-      "firstName": "Alexa",
-      "lastName": "Kim",
-      "email": "non.justo@icloud.couk",
-      "rating": 5,
-      "comments": "interdum. Nunc sollicitudin commodo ipsum. Suspendisse non leo. Vivamus nibh dolor, nonummy ac, feugiat non, lobortis quis, pede. Suspendisse dui. Fusce diam nunc, ullamcorper eu, euismod ac, fermentum vel, mauris. Integer sem elit, pharetra ut, pharetra sed, hendrerit a, arcu. Sed et libero. Proin mi. Aliquam gravida mauris ut mi.",
-      "createdAt": 1639388905000
-    },
-    {
-      "id": "05571534-CB83-8B20-B373-BCFD389C5C0D",
-      "firstName": "Burton",
-      "lastName": "Murray",
-      "email": "mauris.nulla@yahoo.edu",
-      "rating": 5,
-      "comments": "Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi tempor lorem, eget mollis lectus pede et risus. Quisque libero lacus, varius et, euismod et, commodo at, libero. Morbi accumsan laoreet ipsum. Curabitur consequat, lectus sit amet luctus vulputate, nisi sem semper erat, in",
-      "createdAt": 1662001401000
     }
   ]
 }
